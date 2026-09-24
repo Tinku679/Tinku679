@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I'm Tinku Payal<br><br>🎓 B.Tech in<br> Computer Science | Data Analytics & Machine Learning Enthusiast<br>I completed 6 months of training at Intellipaat, where I developed practical knowledge of data analysis, data cleaning, exploratory data analysis, data visualization, dashboard development, and machine learning. I have also worked on real-world projects involving Car Sales Analysis, Restaurant Data Analysis, and HR Analytics.<br><br>Currently, I am expanding my knowledge in Artificial Intelligence, Large Language Models (LLMs), Generative AI, and NLP, and I am interested in building practical AI and data-driven solutions.
 
-
+## Zomato Data Analysis- https://github.com/Tinku679/zomato-data-analysis
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/tinku-payal7575) 
 
