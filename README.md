@@ -3,6 +3,7 @@
 
 ## Zomato Data Analysis- https://github.com/Tinku679/zomato-data-analysis
 ## Machine Learning project -https://github.com/Tinku679/employee-attrition-analysis-prediction
+## Medical Insurance Cost Prediction using Linear Regression- https://github.com/Tinku679/Medical-Insurance-Linear-Regression
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/tinku-payal7575) 
 
