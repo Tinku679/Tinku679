@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I'm Tinku Payal<br><br>🎓 B.Tech in<br> Computer Science | Data Analytics & Machine Learning Enthusiast<br>I completed 6 months of training at Intellipaat, where I developed practical knowledge of data analysis, data cleaning, exploratory data analysis, data visualization, dashboard development, and machine learning. I have also worked on real-world projects involving Car Sales Analysis, Restaurant Data Analysis, and HR Analytics.<br><br>Currently, I am expanding my knowledge in Artificial Intelligence, Large Language Models (LLMs), Generative AI, and NLP, and I am interested in building practical AI and data-driven solutions.
-
+## Excel Project Analysis -  https://github.com/Tinku679/Excel-Data-Analysis
 ## Zomato Data Analysis- https://github.com/Tinku679/zomato-data-analysis
 ## Machine Learning project -https://github.com/Tinku679/employee-attrition-analysis-prediction
 ## Medical Insurance Cost Prediction using Linear Regression- https://github.com/Tinku679/Medical-Insurance-Linear-Regression
